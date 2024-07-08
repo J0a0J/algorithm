@@ -1,6 +1,6 @@
 # [level 1] 내적 - 70128 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/70128?language=java) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/70128) 
 
 ### 성능 요약
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 06월 24일 12:09:44
+2024년 07월 08일 23:40:29
 
 ### 문제 설명
 
